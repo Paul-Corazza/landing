@@ -1,0 +1,15 @@
+
+.banner {
+  background-image: url("https://images.caradisiac.com/images/5/7/6/0/205760/S0-rossa-lm-gt-une-supercar-russe-en-temps-de-guerre-780849.jpg");
+	background-size: cover;
+	background-position: center;
+  padding: 150px;
+}
+.banner h1 {
+  color: white;
+  font-size: 50px;
+}
+.banner h2 {
+  color: white;
+  font-size: 30px;
+}
